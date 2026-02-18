@@ -5,6 +5,9 @@
 [submodule "designit"]
 	path = designit
 	url = https://github.com/bedapub/designit
+[submodule "ribiosMath"]
+	path = ribiosMath
+	url = https://github.com/bedapub/ribiosmath
 [submodule "ribiosUtils"]
 	path = ribiosUtils
 	url = https://github.com/bedapub/ribiosutils
