@@ -5,6 +5,9 @@
 [submodule "Vennerable"]
 	path = Vennerable
 	url = https://github.com/bedapub/Vennerable
+[submodule "designit"]
+	path = designit
+	url = https://github.com/bedapub/designit
 [submodule "ribiosAnnotation"]
 	path = ribiosAnnotation
 	url = https://github.com/bedapub/ribiosAnnotation
@@ -23,9 +26,15 @@
 [submodule "ribiosIO"]
 	path = ribiosIO
 	url = https://github.com/bedapub/ribiosIO
+[submodule "ribiosMath"]
+	path = ribiosMath
+	url = https://github.com/bedapub/ribiosMath
 [submodule "ribiosNGS"]
 	path = ribiosNGS
 	url = https://github.com/bedapub/ribiosNGS
 [submodule "ribiosPlot"]
 	path = ribiosPlot
 	url = https://github.com/bedapub/ribiosPlot
+[submodule "ribiosUtils"]
+	path = ribiosUtils
+	url = https://github.com/bedapub/ribiosUtils
