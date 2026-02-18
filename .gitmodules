@@ -1,13 +1,31 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/bedapub/bedapub.r-universe.dev
 	branch = HEAD
-[submodule "designit"]
-	path = designit
-	url = https://github.com/bedapub/designit
-[submodule "ribiosMath"]
-	path = ribiosMath
-	url = https://github.com/bedapub/ribiosmath
-[submodule "ribiosUtils"]
-	path = ribiosUtils
-	url = https://github.com/bedapub/ribiosutils
+[submodule "Vennerable"]
+	path = Vennerable
+	url = https://github.com/bedapub/Vennerable
+[submodule "ribiosAnnotation"]
+	path = ribiosAnnotation
+	url = https://github.com/bedapub/ribiosAnnotation
+[submodule "ribiosArg"]
+	path = ribiosArg
+	url = https://github.com/bedapub/ribiosArg
+[submodule "ribiosExpression"]
+	path = ribiosExpression
+	url = https://github.com/bedapub/ribiosExpression
+[submodule "ribiosGSEA"]
+	path = ribiosGSEA
+	url = https://github.com/bedapub/ribiosGSEA
+[submodule "ribiosGraph"]
+	path = ribiosGraph
+	url = https://github.com/bedapub/ribiosGraph
+[submodule "ribiosIO"]
+	path = ribiosIO
+	url = https://github.com/bedapub/ribiosIO
+[submodule "ribiosNGS"]
+	path = ribiosNGS
+	url = https://github.com/bedapub/ribiosNGS
+[submodule "ribiosPlot"]
+	path = ribiosPlot
+	url = https://github.com/bedapub/ribiosPlot
